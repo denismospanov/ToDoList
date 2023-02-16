@@ -1,7 +1,7 @@
 # To Do List
 
 ## Project Overview
-A simple to-do list where items can be added, and removed by clicking on it. 
+A stylized to-do list where items can be added, and completed tasks can be removed by clicking on it. 
 
 
 ## How to Run 
