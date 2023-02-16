@@ -1,13 +1,13 @@
 # To Do List
 
 ## Project Overview
-A simple to-do form where items can be added, and removed by clicking on it. 
+A simple to-do list where items can be added, and removed by clicking on it. 
 
 
 ## How to Run 
 1. Navigate to project root in terminal
-2. run http-server
-3. within your preffered browser, open localhost server 
+2. Run http-server
+3. Within your preffered browser, open localhost server 
 
 
 
